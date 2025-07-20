@@ -1,1 +1,1 @@
-﻿# facebook-automation-sell
+﻿# OUTDATED
